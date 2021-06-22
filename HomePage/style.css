@@ -1,0 +1,96 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+#navbar{
+    padding: 0px 0px;
+    background-color: black;
+
+    
+}
+.logo{
+    padding: 2px 2px;
+}
+img{
+    position: absolute;
+    height: 91px;
+    width: 99px;
+
+}
+#abox{
+    
+    padding: 2px 130px;
+    align-items: center;
+    justify-content: center;
+    font-size: 1.1rem;
+    font-family: 'Stint Ultra Condensed', cursive;
+    
+}
+
+li{
+    list-style-type: none;
+}
+a{
+    display: inline-block;
+    color: white;
+    border-radius: 10px;
+    text-decoration: none;
+    margin: -3px ​41px;
+    padding:30px ;
+}
+a:hover{
+    background-color: white;
+    color: black;
+}
+
+.my1{
+    height: 50vh;
+    text-align: center;
+    padding-top:33px ;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 3.2rem;
+    background-image: url(bg1.jpg);
+    opacity: 0.9;
+    color: white;
+}
+table,th,td{
+    border: 1px solid darkgray;
+    width: 1500Px;
+    margin: 40px 225px;
+    padding: 4px;
+    font-size: 1.6rem;
+
+}
+
+.my2{
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 3.2rem;
+    height: 40vh;
+    text-align: center;
+    padding: 54px 150px;
+    background-image: url(bg5.jpg);
+    opacity: 0.9;
+}
+.box1{
+    font-size: 1.6rem;
+    padding-top: 60px;
+}
+.my3{
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 3.2rem;
+    height: 30vh;
+    text-align: center;
+    padding-top: 35px;
+    background-image: url(bg5.jpg);
+    opacity: 0.9;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 80px 180px;
+    text-align: center;
+    font-family: 'Stint Ultra Condensed', cursive;
+    font-size: 1.2rem;
+
+}
